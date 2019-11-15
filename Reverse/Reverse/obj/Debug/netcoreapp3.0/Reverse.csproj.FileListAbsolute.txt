@@ -1,0 +1,11 @@
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\Reverse.exe
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\Reverse.deps.json
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\Reverse.runtimeconfig.json
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\Reverse.runtimeconfig.dev.json
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\Reverse.dll
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\Reverse.pdb
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\Reverse.csprojAssemblyReference.cache
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\Reverse.AssemblyInfoInputs.cache
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\Reverse.AssemblyInfo.cs
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\Reverse.dll
+C:\Users\Sanja\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\Reverse.pdb
